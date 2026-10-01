@@ -1,0 +1,9 @@
+{
+  "name": "megamott-skills",
+  "version": "1.0.0",
+  "description": "Personal agent skills by megamott.",
+  "author": {
+    "name": "megamott"
+  },
+  "skills": ["./skills/review-code"]
+}
