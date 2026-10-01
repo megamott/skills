@@ -1,0 +1,3 @@
+interface:
+  display_name: "Review Code"
+  short_description: "Код-ревью по правилам текущего проекта"
